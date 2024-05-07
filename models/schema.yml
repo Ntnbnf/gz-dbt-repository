@@ -5,8 +5,10 @@ sources:
     description: Location du dossier contenant la raw data
     tables:
       - name: raw_gz_product
-    description: Data set contenant les produits
+        description: Data set contenant les produits
+
       - name: raw_gz_sales
-    description : Data set contenant les ventes
+        description : Data set contenant les ventes
+
       - name: raw_gz_ship
     description : Data set contenant les envois
