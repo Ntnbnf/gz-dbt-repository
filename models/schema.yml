@@ -11,4 +11,4 @@ sources:
         description : Data set contenant les ventes
 
       - name: raw_gz_ship
-    description : Data set contenant les envois
+        description : Data set contenant les envois
