@@ -13,3 +13,15 @@ sources:
       - name: raw_gz_ship
         description : Data set contenant les envois
 
+      - name: raw_gz_adwords
+        description : Data set contenant les infos adwords
+
+      - name: raw_gz_bing
+        description : Data set contenant les infos Bing
+
+      - name: raw_gw_criteo
+        description: Data set contenant les infos Criteo
+
+      - name: raw_gz_facebook
+        description: Data set contenant les infos Facebook
+
